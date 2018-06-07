@@ -1,0 +1,6 @@
+[
+  {"id":"0","title":"Home","link":"/","type":"home","image":"https:\/\/img.youtube.com\/vi\/aVjwBNsiOv0\/hqdefault.jpg"},
+  {"id":"1","title":"Summer","link":"/summer","type":"list","image":"https:\/\/img.youtube.com\/vi\/aVjwBNsiOv0\/hqdefault.jpg"},
+  {"id":"2","title":"Autumn","link":"/autumn","type":"list","image":"https:\/\/img.youtube.com\/vi\/aVjwBNsiOv0\/hqdefault.jpg"},
+  {"id":"3","title":"Winter","link":"/winter","type":"list","image":"https:\/\/img.youtube.com\/vi\/aVjwBNsiOv0\/hqdefault.jpg"}
+]
