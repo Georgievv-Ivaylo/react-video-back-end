@@ -1,0 +1,5 @@
+[
+  {"id": 1, "fullName": "Stoyan Daskaloff", "avatar": "/img/users/avatars/1.jpg", "username": "stoyan", "password": "stoyan"},
+  {"id": 2, "fullName": "Diana Nikolova", "avatar": "/img/users/avatars/2.jpg", "username": "diana", "password": "diana"},
+  {"id": 3, "fullName": "Todor Aleksandrov", "avatar": "/img/users/avatars/3.jpg", "username": "todor", "password": "todor"}
+]
